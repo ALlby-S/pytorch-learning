@@ -1,2 +1,2 @@
 # pytorch-learning
-Pytorch Course from Udemy study material that I have completed.
+Study material from the Udemy Pytorch Course I am working through.
